@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/aps-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/aps-portfolio/static/js/main.ec6fc434.js",
+    "static/js/453.1407b060.chunk.js": "/aps-portfolio/static/js/453.1407b060.chunk.js",
+    "index.html": "/aps-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/aps-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.ec6fc434.js.map": "/aps-portfolio/static/js/main.ec6fc434.js.map",
+    "453.1407b060.chunk.js.map": "/aps-portfolio/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ec6fc434.js"
+  ]
+}
